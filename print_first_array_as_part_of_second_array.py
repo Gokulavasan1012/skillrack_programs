@@ -10,5 +10,5 @@ for i in l1:
         for j in range(l.count(i)):
             print(i,end=" ");
 t=sorted(t,reverse=True);
-print(*t,sep=" ",end=" ");
+print(*t,sep=" ",end=" ")
 
