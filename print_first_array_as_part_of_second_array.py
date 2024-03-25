@@ -11,3 +11,4 @@ for i in l1:
             print(i,end=" ");
 t=sorted(t,reverse=True);
 print(*t,sep=" ",end=" ");
+
