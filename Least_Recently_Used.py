@@ -12,3 +12,8 @@ for i in l:
         s.remove(i)
         s.append(i);
 print(*s);
+
+
+
+
+
