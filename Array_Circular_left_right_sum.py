@@ -20,4 +20,5 @@ for i in range(n):
         last-=1;
     print(s,end=" ");
 
+
     
