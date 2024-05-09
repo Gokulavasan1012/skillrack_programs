@@ -19,5 +19,5 @@ for i in range(n):
         r+=1;
         last-=1;
     print(s,end=" ");
-    
+
     
