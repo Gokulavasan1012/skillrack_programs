@@ -12,3 +12,4 @@ if mon<10:
     print(f"0{mon}-{y}");
 else:
     print(f"0{mon}-{y}");
+    
